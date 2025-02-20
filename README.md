@@ -1,12 +1,12 @@
-Product App (MERN Stack)
+#Product App (MERN Stack)
 
-Overview
+##Overview
 
-Product App is a simple MERN (MongoDB, Express, React, Node.js) stack application that allows users to manage products. Users can create, edit, delete, and view products, each containing a name, price, and image URL.
+###Product App is a simple MERN (MongoDB, Express, React, Node.js) stack application that allows users to manage products. Users can create, edit, delete, and view products, each containing a name, price, and image URL.
 
-Features
+##Features
 
-List all products with their details (name, price, and image)
+###List all products with their details (name, price, and image)
 
 Create new products
 
